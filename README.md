@@ -12,7 +12,7 @@ hw2 draws a robot arm
 #######################
 
 
-hw3\0
+hw3
 
 
 arcball interface is added
