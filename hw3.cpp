@@ -227,9 +227,9 @@ void DrawRobotArm(int NumSegs)
 {
 
 
-
+    
 	glMatrixMode(GL_MODELVIEW);
-	arcball_rotate();
+	
 	// ADD YOUR DISPLAY ROUTINE HERE
 	glPushMatrix();
 	glTranslatef(BaseTransX, 0.0f, BaseTransZ);
