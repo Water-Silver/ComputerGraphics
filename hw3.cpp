@@ -34,7 +34,7 @@ const vec centre(0.0f, 0.5f, 0.0f);
 const vec up(0.0f, 1.0f, 0.0f);
 const float SPHERE_RADIUS = 1.0f;
 
-//onclick ¿¡ ÇÊ¿ä
+//onclick Â¿Â¡ Ã‡ÃŠÂ¿Ã¤
 static float aspect_ratio = 1.0f;
 static int width, height;
 
