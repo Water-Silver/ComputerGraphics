@@ -14,9 +14,7 @@ features implemented
 
 - original color texture from HW2 is restored by adding color per vertex in drawCatchModel().
 
-- speed of normal calculation is improved by c*O(ntris), 
-
-  using vertices to store normals of adjacent triangles.
+- speed of normal calculation is improved by c*O(ntris), using vertices to store normals of adjacent triangles.
 
 1. initialize all normal factor of vertices into 0
 
@@ -54,5 +52,6 @@ for number of triangles :
 normalize(triangle's normal);
 
 
-
+result image
+======================
 ![openglrendering](https://user-images.githubusercontent.com/36324014/50729734-2ecb3200-1182-11e9-8394-446aba9f9d4f.JPG)
