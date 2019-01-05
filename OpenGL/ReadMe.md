@@ -1,6 +1,8 @@
 HW5: OpenGL Rendering of HW2 Object
 
 =============================
+![openglrendering](https://user-images.githubusercontent.com/36324014/50729734-2ecb3200-1182-11e9-8394-446aba9f9d4f.JPG)
+
 
 features implemented
 
@@ -52,6 +54,6 @@ for number of triangles :
 normalize(triangle's normal);
 
 
-result image
-======================
-![openglrendering](https://user-images.githubusercontent.com/36324014/50729734-2ecb3200-1182-11e9-8394-446aba9f9d4f.JPG)
+
+
+
